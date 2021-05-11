@@ -1,4 +1,3 @@
-package ybu.datastruct;
 
 import java.util.ArrayList;
 import java.util.Scanner;
