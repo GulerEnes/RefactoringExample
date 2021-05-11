@@ -1,4 +1,3 @@
-package ybu.datastruct;
 
 public class Item {
     public String name;
